@@ -1,7 +1,8 @@
-import { exibirIcones } from "./icons.js";
-exibirIcones()
+import { exibirIcones, clickIcon } from "./icons.js";
 
-import { clickIcon } from "./icons.js";
+
+
+exibirIcones()
 clickIcon()
 
 
