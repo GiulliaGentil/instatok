@@ -3,7 +3,7 @@ export const exibirIcones = () => {
     //armazenamos na variável nosso menu inferior
     const bottomNavigation = document.getElementById('bottom_navigation');
     
-    //vams criar imagens contendo os icones
+    //vamos criar imagens contendo os icones
     const imgIconHouse = document.createElement('img');
     const imgIconFriends = document.createElement('img');
     const imgIconUser = document.createElement('img');
